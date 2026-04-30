@@ -2,9 +2,9 @@
   "name": "blockstate-projector-bot",
   "version": "1.0.0",
   "description": "Discord bot for BlockState Mod Projector - auto upload & download Minecraft Bedrock addon",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "node index.js",
     "dev": "nodemon src/index.js",
     "register": "node src/register.js"
   },
